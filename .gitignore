@@ -1,0 +1,10 @@
+db.sql
+passwords.txt
+*.log
+*.tmp
+*.cache
+node_modules/
+build/
+dist/
+*.env
+!imp.log
